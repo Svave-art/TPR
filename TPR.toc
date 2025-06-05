@@ -1,0 +1,9 @@
+## Interface: 30300
+## Title: TPR - Учёт жетонов
+## Notes: Комбинированный аддон для учёта жетонов и управления бросками
+## Author: Svave
+## Version: 1.0
+## SavedVariables: TPR_Data
+
+# TPR
+TPR.lua
