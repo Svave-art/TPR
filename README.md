@@ -1,3 +1,5 @@
+КАЧАЕМ ZIP и вставляем в папку addons - название папки должны быть TPR
+
 # TPR - Token Loot System for WoW Guilds
 
 An addon for managing a token-based loot distribution system (Lucky Tokens and Prestige Tokens) in World of Warcraft guilds.
